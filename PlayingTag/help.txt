@@ -1,0 +1,11 @@
+Run the Main.java under group_0583\phase1\PlayingTag\image\src\sample\Main.java
+
+*NOTE: for list of all available tags to persist, press Save button before closing program.
+
+On the left there is a list of directories. Navigate to the directory you want by clicking on it in the list. Once selected, the list will update with the current directory’s contents.
+
+When clicking on an Image in the directory, it will appear on the right of the list. Once selected, the list below the list of files will update with the history of the past names this image had using this program. To add or remove a tag, enter it in the text field labelled Enter a Tag and click the respective button. All available tags are in the dropdown labelled Available tags. To use an available tag, click on it in the dropdown and click the button Use Tag. It will update the textfield with the selected tag. You then press the respective button you wish to use on said tag.
+
+The textfield only uses tags that are inputed correctly (has an ‘@‘ at the beginning). Any other input will be ignored when a button is pressed. You can only add one tag at a time.
+
+The past names does not update unless you click on the image name again in the file list.
